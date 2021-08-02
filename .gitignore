@@ -1,0 +1,6 @@
+.idea/
+.settings/
+.vscode/
+__pycache__/
+*.txt
+result.json
